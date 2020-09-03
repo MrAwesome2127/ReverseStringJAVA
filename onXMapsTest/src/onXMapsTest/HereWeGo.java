@@ -3,6 +3,8 @@ package onXMapsTest;
 import java.util.Scanner;
 
 public class HereWeGo {
+	
+	@SuppressWarnings("resource")
 	public static void main (String args[]) {
 		System.out.println("This is a onX Test for Prime Number");
 		System.out.println("Please enter a number between [1 - 100]:");
